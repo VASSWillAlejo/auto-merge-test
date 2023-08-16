@@ -1,2 +1,2 @@
 # auto-merge-test
-test
+test2
